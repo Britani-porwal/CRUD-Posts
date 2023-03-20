@@ -1,0 +1,24 @@
+.postHolder {
+    border: 1px solid grey;
+    width: 500px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.postTitle {
+    font-weight: bold;
+    font-size: large;
+}
+
+.postButtons {
+    display: flex;
+    justify-content: flex-end;
+}
+
+button {
+    width: 100px;
+    box-sizing: border-box;
+    padding: 5px 10px;
+    margin: 10px;
+}
